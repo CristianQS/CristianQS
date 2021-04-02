@@ -32,5 +32,5 @@ I'm Cristian Quevedo. I'm a software engineer in the Canary Islands 🏝 ☀
 **GitHub Stats:**  
 
 <a href="https://github.com/CristianQS/CristianQS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanlopez&hide=html,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianQS&hide=html,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
